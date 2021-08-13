@@ -1,6 +1,6 @@
 This is a simple script for using blender to create parallel beam phantom data. It is especially useful for creating dynamic phantoms and slightly more complex 3D phantoms than what can be done in python alone.
 
-To get started:
+## Getting started
 
 1. Download the script and make sure blender is installed and added to path
 2. You might need to install some libraries to your blender python. See below how this can be done.
@@ -14,7 +14,7 @@ You also specify the radius (in blender units) (--radius) from blender origo to 
 Use --help for more options.
 
 
-###Installing python libraries to work with blender
+## Installing python libraries to work with blender
 DO NOT USE ANACONDA! It does not work.
 
 Instead install pip for the python bundled with blender and use pip to install required packages.
