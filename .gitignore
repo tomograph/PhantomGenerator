@@ -1,4 +1,6 @@
 *.log
 *.npy
 *.blend
-
+*.blend1
+/output/*
+/input/*
