@@ -1,0 +1,27 @@
+2021-08-05 09:16:15.511318
+usage: blender [-h] [-a ATT] [-xax XAXIS] [-yax YAXIS] [-zax ZAXIS]
+               [-ra RADIUS] [-px NUMPIXELS] [-n MESHNAME]
+
+Generate simulated x-ray data of mesh assuming attenuation of 1 per blender
+unit. The start and endframe and active scene and output file are selected
+through Blender arguments.
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -a ATT, --att ATT     attenuation pr. blender unit
+  -xax XAXIS, --xaxis XAXIS
+                        first picture plane axis
+  -yax YAXIS, --yaxis YAXIS
+                        second picture plane axis
+  -zax ZAXIS, --zaxis ZAXIS
+                        axis parallel to rays
+  -ra RADIUS, --radius RADIUS
+                        radius for raycasting
+  -px NUMPIXELS, --numpixels NUMPIXELS
+                        set number of pixels
+  -n MESHNAME, --meshname MESHNAME
+                        name of mesh
+
+{"att": 0.5, "xaxis": 1, "yaxis": 2, "zaxis": 0, "radius": 2, "numpixels": 128, "meshname": "Empty"}
+
+
