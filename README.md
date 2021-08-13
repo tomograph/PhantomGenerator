@@ -4,7 +4,7 @@ This is a simple script for using blender to create parallel beam phantom data. 
 
 1. Download the script and make sure blender is installed and added to path
 2. You might need to install some libraries to your blender python. See below how this can be done.
-3. Make a blender model, and rotate it linearly according to your wanted acquisition scheme. Make sure everything you want in the simulation is attached to a common parent PARENT. Save your simulation as YOURFILENAME.blend
+3. Make a blender model, and rotate it linearly according to your wanted acquisition scheme. Make sure everything you want in the simulation is attached to a common parent PARENT. Save your simulation as YOURFILENAME.blend (see particle_test_4.blend for an example)
 4. Then run blender in the background with the xraysim script like this:
 
 blender YOURFILENAME.blend --frame-start 1 --frame-end 240 -o output/TEST/ --background --python xraysim.py -- -n PARENT --radius 2 -px 512
