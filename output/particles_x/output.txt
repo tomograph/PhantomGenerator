@@ -1,0 +1,162 @@
+2021-12-10 09:51:13.208959
+usage: blender [-h] [-a ATT] [-xax XAXIS] [-yax YAXIS] [-zax ZAXIS]
+               [-ra RADIUS] [-px NUMPIXELS] [-n MESHNAME]
+
+Generate simulated x-ray data of mesh assuming attenuation of 1 per blender
+unit. The start and endframe and active scene and output file are selected
+through Blender arguments.
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -a ATT, --att ATT     attenuation pr. blender unit
+  -xax XAXIS, --xaxis XAXIS
+                        first picture plane axis
+  -yax YAXIS, --yaxis YAXIS
+                        second picture plane axis
+  -zax ZAXIS, --zaxis ZAXIS
+                        axis parallel to rays
+  -ra RADIUS, --radius RADIUS
+                        radius for raycasting
+  -px NUMPIXELS, --numpixels NUMPIXELS
+                        set number of pixels
+  -n MESHNAME, --meshname MESHNAME
+                        name of mesh
+
+{"att": 0.5, "xaxis": 0, "yaxis": 1, "zaxis": 2, "radius": 1, "numpixels": 1120, "meshname": "Empty"}
+
+
+2021-12-10 09:54:42.841978
+usage: blender [-h] [-a ATT] [-xax XAXIS] [-yax YAXIS] [-zax ZAXIS]
+               [-ra RADIUS] [-px NUMPIXELS] [-n MESHNAME]
+
+Generate simulated x-ray data of mesh assuming attenuation of 1 per blender
+unit. The start and endframe and active scene and output file are selected
+through Blender arguments.
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -a ATT, --att ATT     attenuation pr. blender unit
+  -xax XAXIS, --xaxis XAXIS
+                        first picture plane axis
+  -yax YAXIS, --yaxis YAXIS
+                        second picture plane axis
+  -zax ZAXIS, --zaxis ZAXIS
+                        axis parallel to rays
+  -ra RADIUS, --radius RADIUS
+                        radius for raycasting
+  -px NUMPIXELS, --numpixels NUMPIXELS
+                        set number of pixels
+  -n MESHNAME, --meshname MESHNAME
+                        name of mesh
+
+{"att": 2.0, "xaxis": 0, "yaxis": 1, "zaxis": 2, "radius": 1, "numpixels": 1120, "meshname": "Empty"}
+
+
+2021-12-10 09:56:38.333034
+usage: blender [-h] [-a ATT] [-xax XAXIS] [-yax YAXIS] [-zax ZAXIS]
+               [-ra RADIUS] [-px NUMPIXELS] [-n MESHNAME]
+
+Generate simulated x-ray data of mesh assuming attenuation of 1 per blender
+unit. The start and endframe and active scene and output file are selected
+through Blender arguments.
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -a ATT, --att ATT     attenuation pr. blender unit
+  -xax XAXIS, --xaxis XAXIS
+                        first picture plane axis
+  -yax YAXIS, --yaxis YAXIS
+                        second picture plane axis
+  -zax ZAXIS, --zaxis ZAXIS
+                        axis parallel to rays
+  -ra RADIUS, --radius RADIUS
+                        radius for raycasting
+  -px NUMPIXELS, --numpixels NUMPIXELS
+                        set number of pixels
+  -n MESHNAME, --meshname MESHNAME
+                        name of mesh
+
+{"att": 20.0, "xaxis": 0, "yaxis": 1, "zaxis": 2, "radius": 1, "numpixels": 1120, "meshname": "Empty"}
+
+
+2021-12-10 09:57:59.694126
+usage: blender [-h] [-a ATT] [-xax XAXIS] [-yax YAXIS] [-zax ZAXIS]
+               [-ra RADIUS] [-px NUMPIXELS] [-n MESHNAME]
+
+Generate simulated x-ray data of mesh assuming attenuation of 1 per blender
+unit. The start and endframe and active scene and output file are selected
+through Blender arguments.
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -a ATT, --att ATT     attenuation pr. blender unit
+  -xax XAXIS, --xaxis XAXIS
+                        first picture plane axis
+  -yax YAXIS, --yaxis YAXIS
+                        second picture plane axis
+  -zax ZAXIS, --zaxis ZAXIS
+                        axis parallel to rays
+  -ra RADIUS, --radius RADIUS
+                        radius for raycasting
+  -px NUMPIXELS, --numpixels NUMPIXELS
+                        set number of pixels
+  -n MESHNAME, --meshname MESHNAME
+                        name of mesh
+
+{"att": 20.0, "xaxis": 0, "yaxis": 1, "zaxis": 2, "radius": 1, "numpixels": 1120, "meshname": "Empty"}
+
+
+2021-12-10 09:59:29.737156
+usage: blender [-h] [-a ATT] [-xax XAXIS] [-yax YAXIS] [-zax ZAXIS]
+               [-ra RADIUS] [-px NUMPIXELS] [-n MESHNAME]
+
+Generate simulated x-ray data of mesh assuming attenuation of 1 per blender
+unit. The start and endframe and active scene and output file are selected
+through Blender arguments.
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -a ATT, --att ATT     attenuation pr. blender unit
+  -xax XAXIS, --xaxis XAXIS
+                        first picture plane axis
+  -yax YAXIS, --yaxis YAXIS
+                        second picture plane axis
+  -zax ZAXIS, --zaxis ZAXIS
+                        axis parallel to rays
+  -ra RADIUS, --radius RADIUS
+                        radius for raycasting
+  -px NUMPIXELS, --numpixels NUMPIXELS
+                        set number of pixels
+  -n MESHNAME, --meshname MESHNAME
+                        name of mesh
+
+{"att": 1.0, "xaxis": 0, "yaxis": 1, "zaxis": 2, "radius": 1, "numpixels": 1120, "meshname": "Empty"}
+
+
+2021-12-10 10:00:39.138196
+usage: blender [-h] [-a ATT] [-xax XAXIS] [-yax YAXIS] [-zax ZAXIS]
+               [-ra RADIUS] [-px NUMPIXELS] [-n MESHNAME]
+
+Generate simulated x-ray data of mesh assuming attenuation of 1 per blender
+unit. The start and endframe and active scene and output file are selected
+through Blender arguments.
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -a ATT, --att ATT     attenuation pr. blender unit
+  -xax XAXIS, --xaxis XAXIS
+                        first picture plane axis
+  -yax YAXIS, --yaxis YAXIS
+                        second picture plane axis
+  -zax ZAXIS, --zaxis ZAXIS
+                        axis parallel to rays
+  -ra RADIUS, --radius RADIUS
+                        radius for raycasting
+  -px NUMPIXELS, --numpixels NUMPIXELS
+                        set number of pixels
+  -n MESHNAME, --meshname MESHNAME
+                        name of mesh
+
+{"att": 1.0, "xaxis": 0, "yaxis": 1, "zaxis": 2, "radius": 1, "numpixels": 1120, "meshname": "Empty"}
+
+

@@ -1,0 +1,5 @@
+Blender 2.93.0 (hash 84da05a8b806 built 2021-06-02 11:29:24)
+/run/user/1001/gvfs/ non-existent directory
+Error: Cannot read file '/home/mette/github/PhantomGenerator/input/testset_slow_fast__big_no_rotation.blend': No such file or directory
+
+Blender quit
